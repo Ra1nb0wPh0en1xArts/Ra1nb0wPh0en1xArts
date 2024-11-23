@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS
 - 😄 Pronouns: Singular They/Xe
 - ⚡ Fun fact: I Eat Way Too Much Instant Curry.
+
 Hello!  Welcome to my super stinky GitHub where I do all of my super stinky nerd stuff on.  It's SUPER nerdy.  And SUPER stinky.  Take a look at your own risk!!!
 
 <!---
